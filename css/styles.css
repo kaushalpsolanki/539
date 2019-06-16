@@ -52,12 +52,17 @@ p {
 
 .nav-item {
   padding: 0 18px;
+
 }
 
 
 .nav-link{
   font-weight: 300;
   font-size: 1.2rem;
+
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255,255,255,1);
 }
 
 .navbar-brand {
@@ -79,6 +84,10 @@ p {
 
   text-align: left;
 
+}
+
+.title-features{
+  color: #232323;
 }
 
 #title .container-fluid {
@@ -178,6 +187,10 @@ p {
   padding: 2% 3%;
 }
 
+.pricing-features {
+  color: #232323;
+}
+
 .price-text {
   font-weight: 700;
   font-size: 3rem;
@@ -249,6 +262,7 @@ p {
 
 .end {
   margin: 8px 0;
+  color : #000;
 }
 
 
@@ -265,6 +279,7 @@ p {
 
 .aboutus-text {
   text-align: left;
+  color: #232323;
 }
 
 .team {
@@ -299,7 +314,7 @@ p {
 }
 
 #footer-team .container-fluid{
-  background-color: #ef8172;
+  background-color: rgb(255,76,104);
   padding-top: 30px;
   padding-bottom: 10px;
 }
