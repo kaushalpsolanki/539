@@ -113,6 +113,11 @@ p {
 
 }
 
+#accordion .card-body{
+  text-align: left;
+  padding: 2% 15%;
+}
+
 .feature-box {
 
   padding: 5%;
@@ -144,7 +149,7 @@ p {
 #testimonials {
 
 
-  background-color: #ef8172;
+  background-color: #fff;
   color: white;
 }
 
@@ -158,6 +163,11 @@ p {
   font-weight: 700;
   font-size: 3rem;
   line-height: 1.5;
+  color: #000;
+}
+
+.testimonial-name {
+  color: #000;
 }
 
 
@@ -166,7 +176,7 @@ p {
 
 #press {
 
-  background-color: #ef8172;
+  background-color: #fff;
 
   padding-bottom: 3%;
 
