@@ -126,6 +126,10 @@ li.nav-item{
   padding: 2% 15%;
 }
 
+#accordion .card-header {
+  background-color: rgba(0,0,0,0)
+}
+
 .accordion-button {
   color: #000;
   font-weight: bold;
